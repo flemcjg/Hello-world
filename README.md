@@ -1,2 +1,4 @@
 # Hello-world
-print hello world
+print(Hello   World)
+print((hello).title +''+(world).title)
+
